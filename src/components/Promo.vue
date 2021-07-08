@@ -5,6 +5,9 @@
         <h1 class="display-2">
           Go Electric
         </h1>
+        <h1 class="display-1">
+          Save The Planet
+        </h1>
       </div>
     </v-content>
   </v-container>
@@ -22,6 +25,6 @@ export default {
       background-image: url('../assets/MX-Hero-Desktop.jpg');
       background-size: cover;
       width: 100%;
-      height: 100%;
+      height: 100vh;
   }
 </style>
